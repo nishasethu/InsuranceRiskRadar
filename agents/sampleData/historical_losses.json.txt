@@ -1,0 +1,42 @@
+[
+  {
+    "risk_name": "AI Liability",
+    "average_loss_ratio": 0.12,
+    "region": "Global"
+  },
+  {
+    "risk_name": "EV Battery Fire Risk",
+    "average_loss_ratio": 0.10,
+    "region": "APAC"
+  },
+  {
+    "risk_name": "Data Center Concentration Risk",
+    "average_loss_ratio": 0.15,
+    "region": "North America"
+  },
+  {
+    "risk_name": "Water Scarcity Risk",
+    "average_loss_ratio": 0.08,
+    "region": "LATAM"
+  },
+  {
+    "risk_name": "Supply Chain Fragility",
+    "average_loss_ratio": 0.11,
+    "region": "APAC"
+  },
+  {
+    "risk_name": "Climate Litigation",
+    "average_loss_ratio": 0.13,
+    "region": "Europe"
+  },
+  {
+    "risk_name": "Healthcare System Stress",
+    "average_loss_ratio": 0.09,
+    "region": "North America"
+  },
+  {
+    "risk_name": "Real Estate Liability",
+    "average_loss_ratio": 0.07,
+    "region": "Europe"
+  }
+]

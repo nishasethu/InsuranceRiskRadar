@@ -1,0 +1,130 @@
+[
+  {
+    "portfolio_id": "P001",
+    "cedent": "ABC Insurance",
+    "sector": "Technology",
+    "region": "North America",
+    "insured_value_usd": 150000000,
+    "treaty_id": "T001"
+  },
+  {
+    "portfolio_id": "P002",
+    "cedent": "Global Tech Mutual",
+    "sector": "Technology",
+    "region": "Europe",
+    "insured_value_usd": 100000000,
+    "treaty_id": "T002"
+  },
+  {
+    "portfolio_id": "P003",
+    "cedent": "Cyber Shield Re",
+    "sector": "Technology",
+    "region": "Asia",
+    "insured_value_usd": 180000000,
+    "treaty_id": "T003"
+  },
+  {
+    "portfolio_id": "P004",
+    "cedent": "Motor Protect",
+    "sector": "Automotive",
+    "region": "Europe",
+    "insured_value_usd": 120000000,
+    "treaty_id": "T004"
+  },
+  {
+    "portfolio_id": "P005",
+    "cedent": "EV Secure",
+    "sector": "Automotive",
+    "region": "North America",
+    "insured_value_usd": 90000000,
+    "treaty_id": "T005"
+  },
+  {
+    "portfolio_id": "P006",
+    "cedent": "Green Energy Insure",
+    "sector": "Energy",
+    "region": "Europe",
+    "insured_value_usd": 200000000,
+    "treaty_id": "T006"
+  },
+  {
+    "portfolio_id": "P007",
+    "cedent": "Solar Risk Partners",
+    "sector": "Energy",
+    "region": "Asia",
+    "insured_value_usd": 150000000,
+    "treaty_id": "T007"
+  },
+  {
+    "portfolio_id": "P008",
+    "cedent": "Agri Shield",
+    "sector": "Agriculture",
+    "region": "India",
+    "insured_value_usd": 80000000,
+    "treaty_id": "T008"
+  },
+  {
+    "portfolio_id": "P009",
+    "cedent": "Crop Secure",
+    "sector": "Agriculture",
+    "region": "Australia",
+    "insured_value_usd": 70000000,
+    "treaty_id": "T009"
+  },
+  {
+    "portfolio_id": "P010",
+    "cedent": "CareShield Re",
+    "sector": "Healthcare",
+    "region": "North America",
+    "insured_value_usd": 220000000,
+    "treaty_id": "T010"
+  },
+  {
+    "portfolio_id": "P011",
+    "cedent": "MedSecure Global",
+    "sector": "Healthcare",
+    "region": "Europe",
+    "insured_value_usd": 185000000,
+    "treaty_id": "T011"
+  },
+  {
+    "portfolio_id": "P012",
+    "cedent": "LifeLine Assurance",
+    "sector": "Healthcare",
+    "region": "APAC",
+    "insured_value_usd": 170000000,
+    "treaty_id": "T012"
+  },
+  {
+    "portfolio_id": "P013",
+    "cedent": "PortFlow Re",
+    "sector": "Logistics",
+    "region": "Global",
+    "insured_value_usd": 195000000,
+    "treaty_id": "T013"
+  },
+  {
+    "portfolio_id": "P014",
+    "cedent": "TradeShield Partners",
+    "sector": "Logistics",
+    "region": "Europe",
+    "insured_value_usd": 160000000,
+    "treaty_id": "T014"
+  },
+  {
+    "portfolio_id": "P015",
+    "cedent": "RetailGuard Co",
+    "sector": "Retail",
+    "region": "North America",
+    "insured_value_usd": 140000000,
+    "treaty_id": "T001"
+  },
+  {
+    "portfolio_id": "P016",
+    "cedent": "PropertyShield Re",
+    "sector": "Real Estate",
+    "region": "Europe",
+    "insured_value_usd": 210000000,
+    "treaty_id": "T010"
+  }
+]

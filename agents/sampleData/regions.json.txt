@@ -1,0 +1,7 @@
+[
+  {"region": "North America", "description": "Large commercial property and liability concentration"},
+  {"region": "Europe", "description": "High cyber and climate litigation concentration"},
+  {"region": "APAC", "description": "Supply chain and natural catastrophe concentration"},
+  {"region": "LATAM", "description": "Flood and political risk concentration"},
+  {"region": "Global", "description": "Cross-border and multinational portfolio concentration"}
+]

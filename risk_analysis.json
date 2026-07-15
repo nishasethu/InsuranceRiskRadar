@@ -1,0 +1,131 @@
+[
+  {
+    "risk_id": "R013",
+    "risk_name": "No Fresh Risk News",
+    "sector": "Insurance",
+    "trend_score": 70,
+    "risk_level": "Medium",
+    "description": "No fresh risk news found",
+    "time_horizon": "1-3 years",
+    "location": "Global"
+  },
+  {
+    "risk_id": "R001",
+    "risk_name": "AI Liability",
+    "sector": "Technology",
+    "trend_score": 95,
+    "risk_level": "High",
+    "description": "Growing legal claims related to AI decisions, hallucinations, bias and copyright issues.",
+    "time_horizon": "1-3 years",
+    "region": "Global"
+  },
+  {
+    "risk_id": "R002",
+    "risk_name": "EV Battery Fire Risk",
+    "sector": "Automotive",
+    "trend_score": 92,
+    "risk_level": "Medium",
+    "description": "Increasing incidents of fires in electric vehicles and battery storage facilities.",
+    "time_horizon": "1-3 years",
+    "region": "APAC"
+  },
+  {
+    "risk_id": "R003",
+    "risk_name": "Data Center Concentration Risk",
+    "sector": "Technology",
+    "trend_score": 91,
+    "risk_level": "High",
+    "description": "Cloud providers concentrating infrastructure in limited geographic regions.",
+    "time_horizon": "2-5 years",
+    "region": "North America"
+  },
+  {
+    "risk_id": "R004",
+    "risk_name": "Renewable Energy Infrastructure Risk",
+    "sector": "Energy",
+    "trend_score": 84,
+    "risk_level": "Medium",
+    "description": "Increasing exposure from offshore wind farms and solar infrastructure.",
+    "time_horizon": "3-5 years",
+    "region": "Europe"
+  },
+  {
+    "risk_id": "R005",
+    "risk_name": "Water Scarcity Risk",
+    "sector": "Agriculture",
+    "trend_score": 82,
+    "risk_level": "Medium",
+    "description": "Reduced water availability impacting crop yields and food supply chains.",
+    "time_horizon": "3-5 years",
+    "region": "LATAM"
+  },
+  {
+    "risk_id": "R006",
+    "risk_name": "Cyber Warfare Risk",
+    "sector": "Technology",
+    "trend_score": 90,
+    "risk_level": "High",
+    "description": "Nation-state cyber attacks impacting enterprise infrastructure.",
+    "time_horizon": "1-3 years",
+    "region": "Europe"
+  },
+  {
+    "risk_id": "R007",
+    "risk_name": "Autonomous Vehicle Liability",
+    "sector": "Automotive",
+    "trend_score": 89,
+    "risk_level": "High",
+    "description": "Legal and liability claims arising from self-driving vehicle incidents.",
+    "time_horizon": "2-5 years"
+  },
+  {
+    "risk_id": "R008",
+    "risk_name": "Supply Chain Fragility",
+    "sector": "Manufacturing",
+    "trend_score": 88,
+    "risk_level": "High",
+    "description": "Increasing disruption from geopolitical tensions, shipping bottlenecks, and single-source dependencies.",
+    "time_horizon": "1-3 years",
+    "region": "APAC"
+  },
+  {
+    "risk_id": "R009",
+    "risk_name": "Climate Litigation",
+    "sector": "Energy",
+    "trend_score": 86,
+    "risk_level": "High",
+    "description": "Growing legal exposure tied to emissions, environmental damage, and transition-related claims.",
+    "time_horizon": "2-5 years",
+    "region": "North America"
+  },
+  {
+    "risk_id": "R010",
+    "risk_name": "Geopolitical Trade Disruption",
+    "sector": "Logistics",
+    "trend_score": 98,
+    "risk_level": "High",
+    "description": "Trade restrictions, sanctions, and international conflicts increasing operational and liability risk.",
+    "time_horizon": "1-3 years",
+    "region": "Global"
+  },
+  {
+    "risk_id": "R011",
+    "risk_name": "Healthcare System Stress",
+    "sector": "Healthcare",
+    "trend_score": 84,
+    "risk_level": "Medium",
+    "description": "Rising cyber, labor, and service continuity pressures affecting healthcare providers and insurers.",
+    "time_horizon": "1-3 years",
+    "region": "North America"
+  },
+  {
+    "risk_id": "R012",
+    "risk_name": "Real Estate Liability",
+    "sector": "Real Estate",
+    "trend_score": 83,
+    "risk_level": "Medium",
+    "description": "Property damage, wildfire exposure, and tenant-related liabilities elevating claims for commercial real estate portfolios.",
+    "time_horizon": "1-3 years",
+    "region": "Europe"
+  }
+]

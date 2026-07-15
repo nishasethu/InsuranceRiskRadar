@@ -1,0 +1,76 @@
+[
+  {
+    "treaty_id": "T001",
+    "treaty_name": "Technology Quota Share",
+    "limit_usd": 50000000,
+    "region": "Global"
+  },
+  {
+    "treaty_id": "T002",
+    "treaty_name": "Cyber Excess of Loss",
+    "limit_usd": 75000000,
+    "region": "Europe"
+  },
+  {
+    "treaty_id": "T003",
+    "treaty_name": "APAC Technology Treaty",
+    "limit_usd": 60000000,
+    "region": "APAC"
+  },
+  {
+    "treaty_id": "T004",
+    "treaty_name": "Motor Liability Treaty",
+    "limit_usd": 45000000
+  },
+  {
+    "treaty_id": "T005",
+    "treaty_name": "EV Liability Treaty",
+    "limit_usd": 55000000
+  },
+  {
+    "treaty_id": "T006",
+    "treaty_name": "Renewable Energy XOL",
+    "limit_usd": 100000000
+  },
+  {
+    "treaty_id": "T007",
+    "treaty_name": "Solar Infrastructure Cat Treaty",
+    "limit_usd": 70000000
+  },
+  {
+    "treaty_id": "T008",
+    "treaty_name": "Agriculture Weather Treaty",
+    "limit_usd": 35000000
+  },
+  {
+    "treaty_id": "T009",
+    "treaty_name": "Crop Yield Protection Treaty",
+    "limit_usd": 30000000
+  },
+  {
+    "treaty_id": "T010",
+    "treaty_name": "Healthcare Professional Liability Treaty",
+    "limit_usd": 65000000,
+    "region": "North America"
+  },
+  {
+    "treaty_id": "T011",
+    "treaty_name": "Healthcare Cyber Liability Treaty",
+    "limit_usd": 58000000
+  },
+  {
+    "treaty_id": "T012",
+    "treaty_name": "Medical Device Recall Treaty",
+    "limit_usd": 47000000
+  },
+  {
+    "treaty_id": "T013",
+    "treaty_name": "Hospital Business Interruption Treaty",
+    "limit_usd": 54000000
+  },
+  {
+    "treaty_id": "T014",
+    "treaty_name": "Healthcare Supply Chain Treaty",
+    "limit_usd": 49000000
+  }
+]
